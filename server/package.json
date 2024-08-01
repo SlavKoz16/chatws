@@ -1,0 +1,20 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "http": "^0.0.1-security",
+    "reconnecting-websocket": "^4.4.0",
+    "websocket": "^1.0.35"
+  },
+  "devDependencies": {
+    "eslint-plugin-react": "^7.35.0"
+  }
+}
